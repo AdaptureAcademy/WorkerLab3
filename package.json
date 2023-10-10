@@ -1,0 +1,17 @@
+{
+  "name": "twilight-salad-69bc",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev",
+    "start": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  },
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "qr-image": "^3.2.0"
+  }
+}
