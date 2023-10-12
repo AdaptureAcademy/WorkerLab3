@@ -1,4 +1,4 @@
-# LAB 3: Build a QR Code Generator with Cloudflare
+# LAB 3: Build a QR Code Generator with Cloudflare Workers
 
 ## Introduction
 
