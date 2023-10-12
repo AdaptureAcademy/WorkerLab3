@@ -32,8 +32,8 @@ and returns a QR code image as a response.
 
 ## Step 2: Handling Incoming Requests
 
-1. **Open the `worker.js` File**:
-   Open the `worker.js` file in your text editor.
+1. **Open the `index.js` File**:
+   Open the `index.js` file in your text editor.
 
 2. **Add the Following Code**:
     ```javascript
